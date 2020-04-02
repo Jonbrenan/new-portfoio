@@ -4,6 +4,13 @@
 a {
     color: purple
 }
+
+
+.projectTitle {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+} 
 /* this code here dicatates what the background of all the body elements on the website */
 
 body {
@@ -26,9 +33,18 @@ body {
 
 
 .main-contain {
-    background-color: #E5B004;
+    background-color: #FFAE5D;
 }
 
+#projectDiv {
+    padding-bottom: 10px;
+}
+
+
+.projectDiv {
+    padding-bottom: 10px;
+    background-color: #FFAE5D;
+}
 
 
 /* This dictates some settings for the picture in the container on the index page */
@@ -72,6 +88,10 @@ body {
 #bgc {
     background-color: #FFAE5D;
     
+}
+
+.bgc {
+    background-color: #FFAE5D;
 }
 
 .jonBlock {
