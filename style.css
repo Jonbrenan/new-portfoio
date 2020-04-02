@@ -1,0 +1,130 @@
+
+
+
+a {
+    color: purple
+}
+/* this code here dicatates what the background of all the body elements on the website */
+
+body {
+    background-image: url(hankmad.jpg);
+}
+
+/* this code is for the header that appears about the navbar */
+.header {
+    background-color: #E1C56B;
+    position: fixed;
+    margin-left: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 1;
+    text-align: center;
+}
+
+
+/* this dictactes the color of the containers in all the webpages */
+
+
+.main-contain {
+    background-color: #E5B004;
+}
+
+
+
+/* This dictates some settings for the picture in the container on the index page */
+
+#newpic {
+    width: 30%;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+/* This dictates text for contact forum */
+
+.form-group {
+    font-size: 20px;
+
+    
+}
+
+
+/*dictates information on the cards on the portfolio page */
+
+.contain1 {
+    width: 100%;
+    background-color: #E1C56B;
+    font-size: 50px;
+    
+}
+
+/* dictates color of button on contact page */
+
+#final-button {
+    background-color: #E1C56B;
+}
+
+
+
+/* dictates color of nav bar */
+
+#bgc {
+    background-color: #FFAE5D;
+    
+}
+
+.jonBlock {
+    background-color: #FFBD7B;
+    
+}
+
+.textColor {
+    color: white;
+}
+
+
+
+.mainBackground {
+    background-color: #A7E2FE;
+}
+
+
+/* adds some color and padding to container in contact page */
+
+#contact {
+    background-color: #E5B004;
+    padding-bottom: 15px;
+}
+
+/* dictates size of photos in portfolio */
+
+.card-img {
+    width: 100%;
+    height: auto;
+}
+
+/* dictates size of text in index page container */
+
+#text {
+    font-size: 20px;
+}
+
+/* dictates info for one of the footers */
+
+.footer {
+    text-align: center;
+    width: 100%;
+    padding-top: 17px;
+    padding-bottom: 10px;
+    background-color: #E5B004;
+}
+
+/* dictates info for the other footer */
+
+.footer2 {
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    background-color: #903F07;
+}
