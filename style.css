@@ -1,22 +1,3 @@
-
-
-
-a {
-    color: purple
-}
-
-
-.projectTitle {
-    background-color: white;
-    width: 100%;
-    text-align: center;
-} 
-/* this code here dicatates what the background of all the body elements on the website */
-
-body {
-    background-image: url(hankmad.jpg);
-}
-
 /* this code is for the header that appears about the navbar */
 .header {
     background-color: #E1C56B;
@@ -29,79 +10,6 @@ body {
 }
 
 
-/* this dictactes the color of the containers in all the webpages */
-
-
-.main-contain {
-    background-color: #FFAE5D;
-}
-
-#projectDiv {
-    padding-bottom: 10px;
-}
-
-
-.projectDiv {
-    padding-bottom: 10px;
-    background-color: #FFAE5D;
-}
-
-
-/* This dictates some settings for the picture in the container on the index page */
-
-#newpic {
-    width: 30%;
-    height: auto;
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 20px;
-}
-
-/* This dictates text for contact forum */
-
-.form-group {
-    font-size: 20px;
-
-    
-}
-
-
-/*dictates information on the cards on the portfolio page */
-
-.contain1 {
-    width: 100%;
-    background-color: #E1C56B;
-    font-size: 50px;
-    
-}
-
-/* dictates color of button on contact page */
-
-#final-button {
-    background-color: #E1C56B;
-}
-
-
-
-/* dictates color of nav bar */
-
-#bgc {
-    background-color: #FFAE5D;
-    
-}
-
-.bgc {
-    background-color: #FFAE5D;
-}
-
-.jonBlock {
-    background-color: #FFBD7B;
-    
-}
-
-.textColor {
-    color: white;
-}
 
 
 
@@ -110,41 +18,64 @@ body {
 }
 
 
-/* adds some color and padding to container in contact page */
 
-#contact {
-    background-color: #E5B004;
-    padding-bottom: 15px;
+.textColor {
+    color: white;
 }
 
-/* dictates size of photos in portfolio */
 
-.card-img {
-    width: 100%;
-    height: auto;
+
+
+/* dictates color of a sqaure that is located behind the name "Jon Brenan" on the navbar */
+
+.jonBlock {
+    background-color: #FFBD7B;
+    
 }
 
-/* dictates size of text in index page container */
 
-#text {
-    font-size: 20px;
+/* dicatates color for various objects and divs in both index and projects pages */
+
+.bgc {
+    background-color: #FFAE5D;
 }
 
-/* dictates info for one of the footers */
 
-.footer {
-    text-align: center;
-    width: 100%;
-    padding-top: 17px;
+/* dictates the color and padding for the container for the cards in the project page */
+
+.projectDiv {
     padding-bottom: 10px;
-    background-color: #E5B004;
+    background-color: #FFAE5D;
 }
 
-/* dictates info for the other footer */
 
-.footer2 {
-    text-align: center;
-    width: 100%;
-    padding: 5px;
-    background-color: #903F07;
+
+
+
+
+
+/* color for the links */
+
+a {
+    color: purple
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
